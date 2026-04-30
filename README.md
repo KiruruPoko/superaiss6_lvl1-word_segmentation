@@ -3,8 +3,8 @@ Pretty much vibe-coding (claude my beloved) \
 **Model**: `lst-nectec/HoogBERTa`\
 **Dataset**: `LST20-Corpus`\
 **Dataset split** `Training: train+val folder`, `val = test folder`\
-**Metrics**: `F1 Macro`\
-\
+**Metrics**: `F1 Macro`
+
 ## **Progress summary** 
 | Batch_size and Epochs       | Public score | Private Score | Train Duration   |
 |-----------------------------|--------------|---------------|------------------|
